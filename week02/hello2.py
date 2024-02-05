@@ -3,4 +3,4 @@
 # author: Tomasz Uszynski
 
 name = input("Enter your name: ")                           #read in person's name
-print("Hello " +name)                                       #print out Hello that person name
+print("Hello " +name +"\nNice to meet you")                 #print out Hello that person name
