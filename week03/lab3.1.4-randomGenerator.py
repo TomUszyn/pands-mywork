@@ -4,6 +4,9 @@
 
 import random                                              # Imports the module random
 
-number = random.randint(1, 10)                             # Generates random number from range 1 to 10 including those numbers. 
+first_number = int(input("Enter first number of range: ")) # int() converts input value to integer and store as first_number.
+last_number = int(input("Enter last number of range: "))   # int() converts input value to integer and store as last_number.
+
+number = random.randint(first_number, last_number)         # Generate random number from user inputs range including those numbers.
 
 print("Here is a random number {}".format(number))         # Prints out result.
