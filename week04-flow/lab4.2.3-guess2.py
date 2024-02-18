@@ -1,9 +1,10 @@
-# 4.2.2-guess2.py
+# 4.2.3-guess2.py
 # Program prompts the user to guess a number, the program should keep prompting the user 
 # to guess the number until the user gets the right one.
 # author: Tomasz Uszynski
 
-guessTheNumber = 30                                        # Declarates target number.
+import random                                              # Imports module.
+guessTheNumber = random.randint(0, 100)                    # Picks random number from 0 to 100.
 
 guess = int(input("Please guess the number: "))            # User enters their guess.
 
