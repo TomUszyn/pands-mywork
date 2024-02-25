@@ -3,6 +3,8 @@
 # then keeps reading in their modules and grades (until the user enters a blank module name). Multiple student version.
 # author: Tomasz Uszynski
 
+import webbrowser
+
 students = {}                                                                         # Creates empty dict students.
 
 while True:                                                                           # Loop runs until the user enters a blank student name.
@@ -31,5 +33,5 @@ for studentName, student in students.items():                                   
 
 # To format print of modules we are using align to left :<20 and align ringt :>2. More details on the website: https://fstring.help/
 # Base souce code taken from: Lab 05 dataStructures.pdf
-# https://realpython.com/python-for-loop/ Explains about for loop.
-# https://realpython.com/python-while-loop/ Explains about while loop.           
+# https://realpython.com/python-for-loop/ webbrowser.open("https://realpython.com/python-for-loop/") Explains about for loop.
+# https://realpython.com/python-while-loop webbrowser.open("https://realpython.com/python-while-loop/") Explains about while loop.           
