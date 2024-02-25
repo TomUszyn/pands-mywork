@@ -1,3 +1,8 @@
+# lab5.1.5-advancedStudentGradeTracker.py
+# Program that will read in the data for the data structure above, ie reads in a student’s name, 
+# then keeps reading in their modules and grades (until the user enters a blank module name).
+# author: Tomasz Uszynski
+
 student = {}                                                                 # Creates empty dict student.
 student["name"] = str.capitalize(input("Enter name of student: "))           # Adds input data to the dictionary
                                                                              # in format "name" : student
