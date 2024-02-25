@@ -33,5 +33,5 @@ for studentName, student in students.items():                                   
 
 # To format print of modules we are using align to left :<20 and align ringt :>2. More details on the website: https://fstring.help/
 # Base souce code taken from: Lab 05 dataStructures.pdf
-# https://realpython.com/python-for-loop/ webbrowser.open("https://realpython.com/python-for-loop/") Explains about for loop.
-# https://realpython.com/python-while-loop webbrowser.open("https://realpython.com/python-while-loop/") Explains about while loop.           
+# webbrowser.open("https://realpython.com/python-for-loop/") Explains about for loop.
+# webbrowser.open("https://realpython.com/python-while-loop/") Explains about while loop.           
