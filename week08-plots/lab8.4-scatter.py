@@ -30,6 +30,6 @@ plt.title('Random salaries and ages') # Add a title to the scatter plot.
 plt.xlabel('Salaries')                # Add a label to the x-axis.
 plt.ylabel('Age')                     # Add a label to the y-axis. 
 plt.legend(['y = x^2', 'salaries'])   # Add a legend to the plot.       
-plt.show()                            # Display the histogram.
+#plt.show()                            # Display the histogram.
 
 plt.savefig('prettier-plot.png')      # Save the plot to a file.
