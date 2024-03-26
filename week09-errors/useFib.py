@@ -5,5 +5,10 @@
 # author: Tomasz Uszynski         
 
 import myFunctions                                  # Import myFunctions module.
-nTimes = int(input('How many?:'))                   # Prompt the user for a number and store it in nTimes.
+try:
+    nTimes = int(input("How many?: "))               # Prompt the user for a number and store it in nTimes.
+except ValueError:                                  # If a ValueError is raised.
+    print("You must enter an integer value.")        # Print "You must enter an integer value".
+    nTimes = int(input("How many?: "))               # Prompt the user for a number and store it in nTimes.
+
 print(myFunctions.fibonacci(nTimes))                # Print the fibonacci sequence of nTimes numbers.
