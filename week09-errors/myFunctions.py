@@ -8,7 +8,7 @@
 
 
 import logging                                      # Import logging module.
-# logging.basicConfig(level=logging.DEBUG)          # Set logging level to DEBUG. Commented out to prevent debug messages from being printed.
+# logging.basicConfig(level=logging.DEBUG)           # Set logging level to DEBUG. Commented out to prevent debug messages from being printed.
 
 def fibonacci(number):                              # Define function fibonacci that takes in number.         
     if number < 0:                                  # If number is less than 0.
