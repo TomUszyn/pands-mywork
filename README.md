@@ -10,7 +10,7 @@ In this repository, you will find scripts that demonstrate my abilities in Pytho
 
 The repository is organized into the following directories:
 
-- `week1`: Introduction. Setting up environment such as VS Code, Git and GitHub and Anaconda.
+- `week1`: Introduction. Actually this is not a directory. I just setting up environment such as VS Code, Git and GitHub and Anaconda.
 - `week2`: Statements. This topic cover what program is and write a simple code.
 - `week3`: Variables. This topic cover the different types of variables, sample of the Math module and basic strings    manipulating.
 - `week4`: Controlling the flow. This topic cover if statements and while and for loops.
