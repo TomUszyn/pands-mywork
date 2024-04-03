@@ -25,9 +25,9 @@ Feel free to explore each directory to learn more about the programs and scripts
 
 ## Getting Started
 
-To get started with the projects in this repository, follow these steps:
+To get started with the programs in this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/pands-mywork.git`
+1. Clone the repository: `git clone https://github.com/TomUszyn/pands-mywork.git`
 2. Navigate to directories: `cd pands-mywork/name_of_folder`
 3. To make easier analize and run code I recommend to use VS Code.
 4. To avoid errors, make sure that you use the proper path to files which you are trying to run.
