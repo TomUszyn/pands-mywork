@@ -64,8 +64,8 @@ steps:
     ```
     cd pands-mywork
 
-7. In VS Code, pick one of the available programs with extension .py from the pands-weekly-tasks folder, run the program
-by typing the file name, and press enter to execute it. There is only one exception in the case of the es.py file, where the user must input the name of the .txt file as an argument.
+7. In VS Code, pick one of the available programs with extension .py from the pands-mywork folder, run the program
+by typing the file name, and press enter to execute it.
 
 Notice: Make sure you are in the correct patch for the file you are trying to execute. Otherwise, you may encounter an error.
 
