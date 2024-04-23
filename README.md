@@ -1,4 +1,4 @@
-# pands-mywork
+Programming and Scripting - My work.
 
 This repository is dedicated to showcasing my progress and skills in programming and scripting using Python.
 
