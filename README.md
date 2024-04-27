@@ -10,16 +10,16 @@ In this repository, you will find scripts that demonstrate my abilities in Pytho
 
 The repository is organized into the following directories:
 
-- `week1`: Introduction. Actually this is not a directory. I just setting up environment such as VS Code, Git and GitHub and Anaconda.
-- [`week2`](week02-statements): Statements. This topic cover what program is and write a simple code.
-- [`week3`](week03-variables): Variables. This topic cover the different types of variables, sample of the Math module and basic strings manipulating.
-- [`week4`](week04-flow): Controlling the flow. This topic cover if statements and while and for loops.
-- [`week5`](week05-datastructures): Data. This topic cover lists, tumples and directories.
-- [`week6`](week06-functions): Functions. This topic cover functions and modules. thos should give idea how to break longer program into functrions.
-- [`week7`](week07-files): Files. This topic cover reading and writhing files. There is also introduction to JSON and CSV files.
-- [`week8`](week08-plots): Mathplotlib. This topic cover introduction to numpy and mathplotlib.
-- [`week9`](week09-errors): Errors. This topic cover eroors and exceptions, testing and logging.
-
+- `week01`: Introduction. Actually this is not a directory. I just setting up environment such as VS Code, Git and GitHub and Anaconda.
+- [`week02`](week02-statements): Statements. This topic cover what program is and write a simple code.
+- [`week03`](week03-variables): Variables. This topic cover the different types of variables, sample of the Math module and basic strings manipulating.
+- [`week04`](week04-flow): Controlling the flow. This topic cover if statements and while and for loops.
+- [`week05`](week05-datastructures): Data. This topic cover lists, tumples and directories.
+- [`week06`](week06-functions): Functions. This topic cover functions and modules. thos should give idea how to break longer program into functrions.
+- [`week07`](week07-files): Files. This topic cover reading and writhing files. There is also introduction to JSON and CSV files.
+- [`week08`](week08-plots): Mathplotlib. This topic cover introduction to numpy and mathplotlib.
+- [`week09`](week09-errors): Errors. This topic cover eroors and exceptions, testing and logging.
+- [`week10`](week10-pandas): Pandas. This topic covers: what is Pandas (dataframe and series), reading and writing data from/to files, tidying up and manipulating of data and introduction to Data analysis with Pandas.
 
 Feel free to explore each directory to learn more about the programs and scripts I have worked on. Programs have names suggesting what for they are created.
 
